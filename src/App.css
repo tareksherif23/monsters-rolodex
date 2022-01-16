@@ -3,6 +3,13 @@
   background-color: #532c74;
 }
 
+input{
+  padding: 8px;
+  margin: 20px;
+  width: 300px;
+  background-color: #d3d0c2;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
